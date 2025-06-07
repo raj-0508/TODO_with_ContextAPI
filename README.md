@@ -2,6 +2,8 @@
 
 A simple yet powerful Todo App built with **React.js**, using **Context API** for state management and **LocalStorage** for persistent data.
 
+## 🚀 Live Preview 👉 [View Live](https://todo-with-context-api-kappa.vercel.app/)
+
 ## 🚀 Features
 
 * ✅ Add new todos
@@ -79,11 +81,6 @@ The app will be live at `http://localhost:3000`
 
 ---
 
-## 🗄️ Preview
-
-![Todo App Screenshot](screenshot.png) <!-- Add a screenshot file in your repo -->
-
----
 
 ## ✨ Future Improvements
 
@@ -94,6 +91,9 @@ The app will be live at `http://localhost:3000`
 
 ---
 
+# Screenshot
+
+![image](Screenshot.png)
 
 ## 🙌 Acknowledgements
 
